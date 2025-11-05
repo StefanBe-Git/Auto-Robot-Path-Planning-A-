@@ -13,7 +13,7 @@ Within a university project, I built a Python prototype featuring:
 
 What this implementation enables:
 
-✅ A simulated, simplified robot (2DoF) autonomously finding valid paths on a 2D grid
-✅ No manual programming required upfront – simple HMI for test cases
-✅ Modular design for scaling to multi-DOF or industrial robotic use cases
-✅ Business case validation for industrial applications
+- ✅ A simulated, simplified robot (2DoF) autonomously finding valid paths on a 2D grid
+- ✅ No manual programming required upfront – simple HMI for test cases
+- ✅ Modular design for scaling to multi-DOF or industrial robotic use cases
+- ✅ Business case validation for industrial applications
