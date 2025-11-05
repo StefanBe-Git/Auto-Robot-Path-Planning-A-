@@ -1,0 +1,11 @@
+# requirements.txt for Robot Path Planning Notebook
+
+# Python Version
+python>=3.13
+
+# Jupyter Notebook kernel
+ipykernel>=6.27.0
+
+# Jupyter Notebook / nbformat
+notebook>=7.0.0
+nbformat>=5.9.0
